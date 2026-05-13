@@ -35,7 +35,7 @@ export const translations = {
       achievements: 'Başarılar & Öne Çıkanlar',
       projects: 'Projeler',
       blog: 'Blog Yazıları',
-      contact: 'Hadi Konuşalım',
+      contact: 'İletişim',
     },
     about: {
       bio: 'Teknoloji ve yenilikçiliğe tutkulu bir Bilgisayar Mühendisiyim; yapay zekâ, robotik, görüntü işleme ve bilgisayarlı görü alanlarında uzmanlaşıyorum. Araştırma defterlerinden üretim uygulamalarına kadar uçtan uca sistemler geliştirmekten ve öğrendiklerimi Medium’daki blog yazılarımla paylaşmaktan keyif alıyorum.',
@@ -86,7 +86,7 @@ export const translations = {
       achievements: 'Achievements & Highlights',
       projects: 'Projects',
       blog: 'Blog Posts',
-      contact: "Let's Talk",
+      contact: 'Contact',
     },
     about: {
       bio: "I'm a Computer Engineer passionate about technology and innovation, specializing in artificial intelligence, robotics, image processing and computer vision. I enjoy shipping end-to-end systems — from research notebooks to production apps — and sharing what I learn through blog posts on Medium.",
