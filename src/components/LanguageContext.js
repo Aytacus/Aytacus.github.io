@@ -26,7 +26,7 @@ export const translations = {
       eyebrow: 'Yeni fırsatlara açığım',
       greeting: 'Merhaba, ben',
       subtitle:
-        'Yapay Zekâ, Robotik ve Bilgisayarlı Görü kesişiminde çalışan bir Bilgisayar Mühendisiyim. Akıllı sistemler geliştiriyor ve arkasındaki teknolojiyi yazıya döküyorum.',
+        "Bilgisayar Mühendisiyim. Yapay zekâ, robotik ve bilgisayarlı görü tarafında çalışıyor, öğrendiklerimi de zaman zaman Medium'da yazıya döküyorum.",
       exploreProjects: 'Projeleri Keşfet',
       readOnMedium: "Medium'da Oku",
     },
@@ -38,7 +38,7 @@ export const translations = {
       contact: 'İletişim',
     },
     about: {
-      bio: 'Teknoloji ve yenilikçiliğe tutkulu bir Bilgisayar Mühendisiyim; yapay zekâ, robotik, görüntü işleme ve bilgisayarlı görü alanlarında uzmanlaşıyorum. Araştırma defterlerinden üretim uygulamalarına kadar uçtan uca sistemler geliştirmekten ve öğrendiklerimi Medium’daki blog yazılarımla paylaşmaktan keyif alıyorum.',
+      bio: "Bilgisayar Mühendisiyim. Vaktimin büyük çoğunluğu yapay zekâ, robotik, görüntü işleme ve bilgisayarlı görü tarafında geçiyor. Bir fikrin defterden çıkıp gerçekten çalışan bir şeye dönüştüğü kısım benim için en zevkli yer — sonrasında da öğrendiklerimi Medium'da yazıya döküyorum.",
     },
     badges: {
       onlyTR: 'Yazı yalnızca Türkçe',
@@ -77,7 +77,7 @@ export const translations = {
       eyebrow: 'Available for new opportunities',
       greeting: "Hi, I'm",
       subtitle:
-        'Computer Engineer crafting at the intersection of Artificial Intelligence, Robotics and Computer Vision. I build intelligent systems and write blog posts about the tech behind them.',
+        "Computer Engineer. I work on AI, robotics and computer vision, and I write about what I'm learning along the way on Medium.",
       exploreProjects: 'Explore Projects',
       readOnMedium: 'Read on Medium',
     },
@@ -89,7 +89,7 @@ export const translations = {
       contact: 'Contact',
     },
     about: {
-      bio: "I'm a Computer Engineer passionate about technology and innovation, specializing in artificial intelligence, robotics, image processing and computer vision. I enjoy shipping end-to-end systems — from research notebooks to production apps — and sharing what I learn through blog posts on Medium.",
+      bio: "I'm a Computer Engineer. Most of my time goes into AI, robotics, image processing and computer vision. My favorite part is the moment an idea moves out of a notebook and turns into something that actually works — and I usually end up writing about what I learned on Medium afterwards.",
     },
     badges: {
       onlyTR: 'Post available in Turkish only',

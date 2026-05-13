@@ -125,8 +125,8 @@ const projects = [
     title: { tr: 'ONNX Temelleri', en: 'ONNX Basics' },
     meta: { tr: 'Python • ONNX • Model Dağıtımı', en: 'Python • ONNX • Model Deployment' },
     desc: {
-      tr: 'Modelleri ONNX formatında dışa aktarmayı, incelemeyi ve çalıştırmayı gösteren uygulamalı bir proje — farklı framework\'ler arasında modeller için evrensel bir değişim formatı.',
-      en: 'A hands-on playground demonstrating how to export, inspect and run models in the ONNX format — the universal interchange format for ML models across frameworks.',
+      tr: "ONNX'in nasıl çalıştığını gerçekten anlamak için yaptığım küçük bir uygulamalı proje. Modelleri PyTorch ve TensorFlow'dan dışa aktarıp ONNX Runtime üzerinde çalıştırıyor.",
+      en: "A small hands-on project I built to actually understand how ONNX works. It exports models from PyTorch and TensorFlow and runs them through ONNX Runtime.",
     },
     link: 'https://github.com/Aytacus/ONNX_Basic',
   },
@@ -134,8 +134,8 @@ const projects = [
     title: { tr: 'Yaş Tespit Sistemi', en: 'Age Detector' },
     meta: { tr: 'Python • Bilgisayarlı Görü • Derin Öğrenme', en: 'Python • Computer Vision • Deep Learning' },
     desc: {
-      tr: 'Eğitilmiş bir derin öğrenme modeliyle ekrandaki kişiyi gerçek zamanlı olarak çocuk, yetişkin veya yaşlı olarak sınıflandıran bir bilgisayarlı görü projesi.',
-      en: 'A computer vision project that classifies people on screen as a child, an adult, or an elder in real time using a trained deep learning model.',
+      tr: 'Kameradaki kişiyi çocuk, yetişkin ya da yaşlı olarak gerçek zamanlı tahmin eden bir bilgisayarlı görü projesi.',
+      en: 'A computer vision project that decides if the person in front of the camera is a child, an adult or an elder, in real time.',
     },
     link: 'https://github.com/Aytacus/Age_Detector',
   },
@@ -143,8 +143,8 @@ const projects = [
     title: { tr: 'Gerçek Fotoğraftan Ghibli Stiline', en: 'Real to Ghibli Style Transfer' },
     meta: 'Python • PyTorch • CycleGAN',
     desc: {
-      tr: 'CycleGAN mimarisi ve ResNet üreteçleri kullanarak gerçek dünya fotoğraflarını Studio Ghibli tarzı anime sanatına dönüştüren bir derin öğrenme uygulaması.',
-      en: 'A deep learning application that transforms real-world photos into Studio Ghibli–style anime art using CycleGAN architecture and ResNet generators.',
+      tr: 'Gerçek fotoğrafları Studio Ghibli tarzına çeviren bir CycleGAN projesi. (Bu sitenin teması da aslında oradan geliyor.)',
+      en: "A CycleGAN model that turns ordinary photos into Studio Ghibli–style art. (This site's theme is basically a nod to it.)",
     },
     link: 'https://github.com/Aytacus/real_to_ghibli',
   },
@@ -152,8 +152,8 @@ const projects = [
     title: { tr: 'Sesli Yapay Zekâ Masaüstü Asistanı', en: 'AI Voice Desktop Assistant' },
     meta: { tr: 'Python • Groq LLaMA • Otomasyon', en: 'Python • Groq LLaMA • Automation' },
     desc: {
-      tr: "Uygulamaları başlatabilen, Selenium ile medya oynatabilen ve Groq'un LLaMA 3.3 modelini kullanarak sistem komutlarını çalıştıran sesli kontrollü bir asistan.",
-      en: "A voice-controlled assistant capable of launching apps, playing media via Selenium, and executing system commands using Groq's LLaMA 3.3 model.",
+      tr: "Sesle uygulama açan, Selenium ile YouTube'dan video oynatan ve Groq'un LLaMA 3.3 modelini kullanarak sistem komutlarını çalıştıran bir masaüstü asistanı.",
+      en: "A desktop assistant that opens apps by voice, plays videos through Selenium, and runs system commands using Groq's LLaMA 3.3 model.",
     },
     link: 'https://github.com/Aytacus/python-ai-desktop-assistant-withvoice',
   },
@@ -161,8 +161,8 @@ const projects = [
     title: { tr: 'Hikâye Oluşturucu Yapay Zekâ', en: 'Story Creator AI' },
     meta: 'Python • PyQt6 • BLIP + LLaMA',
     desc: {
-      tr: 'Görsel açıklaması için BLIP ile yaratıcı hikâyeler üretmek için LLaMA 3.3 modelini birleştiren ve kullanıcı yüklemelerinden gerçek zamanlı hikâye oluşturan bir masaüstü uygulaması.',
-      en: 'A desktop app combining BLIP for image captioning and LLaMA 3.3 to automatically generate creative stories from user-uploaded images in real-time.',
+      tr: 'Yüklediğin görselin altyazısını BLIP ile çıkarıp, ardından LLaMA 3.3 ile o görsele yaratıcı bir hikâye yazan bir masaüstü uygulaması.',
+      en: 'A desktop app that captions an image you upload using BLIP, and then writes a short creative story for it with LLaMA 3.3.',
     },
     link: 'https://github.com/Aytacus/storycreator',
   },
@@ -170,8 +170,8 @@ const projects = [
     title: { tr: 'BTU LangChain RAG (Bitirme Projesi)', en: 'BTU LangChain RAG (Graduation Project)' },
     meta: { tr: 'Python • Yapay Zekâ • RAG', en: 'Python • AI • RAG' },
     desc: {
-      tr: 'Bitirme projem — Bursa Teknik Üniversitesi belgelerine dayanarak soruları yanıtlayan, LangChain ve Retrieval-Augmented Generation kullanan bir yapay zekâ sistemi.',
-      en: 'Graduation project — an AI system using LangChain and Retrieval-Augmented Generation to answer questions based on Bursa Technical University documents.',
+      tr: "Bitirme projem. Bursa Teknik Üniversitesi'nin belgelerine LangChain + RAG ile bağlanıp onlara soru sorabilmeni sağlayan bir asistan.",
+      en: "My graduation project. An assistant that connects to Bursa Technical University's documents through LangChain + RAG so you can ask questions about them.",
     },
     link: 'https://github.com/Aytacus/BTU-LangChain-RAG',
   },
@@ -179,8 +179,8 @@ const projects = [
     title: { tr: 'Türkçe için Konuşma-Yazı Sistemi', en: 'Speech-to-Text for Turkish' },
     meta: { tr: 'Python • NLP • Konuşma Tanıma', en: 'Python • NLP • Speech Recognition' },
     desc: {
-      tr: 'Türkçe fonetiğine uygun akustik modeller ve çözücüler kullanan, Türkçe diline odaklanmış bir konuşmadan metne dönüştürme hattı.',
-      en: 'A speech-to-text pipeline focused on the Turkish language, exploring acoustic models and decoders tuned for Turkish phonetics.',
+      tr: 'Türkçe için bir konuşmadan metne sistemi üzerinde yaptığım deneme. Türkçenin fonetiğine daha iyi oturan model ve decoder ayarlarını test ettim.',
+      en: 'A speech-to-text experiment for Turkish — testing acoustic models and decoder setups that fit Turkish phonetics better.',
     },
     link: 'https://github.com/Aytacus/STT-for-Turkish',
   },
@@ -188,8 +188,8 @@ const projects = [
     title: { tr: 'Diyet Takip Uygulaması', en: 'Diet Tracker App' },
     meta: { tr: 'Flutter • Mobil Uygulama', en: 'Flutter • Mobile App' },
     desc: {
-      tr: 'BMI hesaplama, besin detayları ve kişiselleştirilmiş diyet listeleri içeren, Flutter ile geliştirilmiş kapsamlı bir diyet takip uygulaması.',
-      en: 'A comprehensive diet tracking application built with Flutter, featuring BMI calculation, food details, and personalized diet lists.',
+      tr: 'Flutter ile yazdığım bir diyet takip uygulaması. BMI hesabı, besin detayları ve kişisel diyet listesi var.',
+      en: 'A diet tracker I built with Flutter. It does BMI calculations, shows food details and keeps a personal diet list.',
     },
     link: 'https://github.com/Aytacus/diet_tracker_flutter',
   },
@@ -197,8 +197,8 @@ const projects = [
     title: { tr: 'Sesli Müzik Asistanı', en: 'Voice Assistant Music' },
     meta: { tr: 'Flutter • Ses Tanıma', en: 'Flutter • Voice Recognition' },
     desc: {
-      tr: 'Kullanıcıların sesli komutlarla müzik çalmayı kontrol etmesine olanak tanıyan bir mobil uygulama.',
-      en: 'A mobile application that allows users to control music playback using voice commands.',
+      tr: 'Sesli komutlarla müzik kontrolü yapabilen küçük bir mobil uygulama.',
+      en: 'A small mobile app for controlling music playback with voice commands.',
     },
     link: 'https://github.com/Aytacus/voice_assistant_music',
   },
@@ -206,8 +206,8 @@ const projects = [
     title: { tr: 'Çevrimdışı Dosya Aktarımı', en: 'Offline File Transfer' },
     meta: { tr: 'Python • Ağ', en: 'Python • Networking' },
     desc: {
-      tr: 'İnternet bağlantısı gerektirmeden cihazlar arasında dosya aktarımı için Python tabanlı bir çözüm.',
-      en: 'A Python-based solution for transferring files between devices without requiring an active internet connection.',
+      tr: 'İnternet bağlantısı olmadığında cihazlar arasında dosya aktarmak için yazdığım Python aracı.',
+      en: "A Python tool I wrote to move files between devices when there's no internet around.",
     },
     link: 'https://github.com/Aytacus/offline_file_transfer',
   },
@@ -215,8 +215,8 @@ const projects = [
     title: 'UART VIP',
     meta: { tr: 'SystemVerilog • Doğrulama', en: 'SystemVerilog • Verification' },
     desc: {
-      tr: 'SystemVerilog kullanarak UART iletişim protokollerini doğrulamak için tasarlanmış bir Verification Intellectual Property (VIP).',
-      en: 'A Verification Intellectual Property (VIP) for validating UART communication protocols using SystemVerilog.',
+      tr: "SystemVerilog'da yazdığım, UART iletişim protokolünü doğrulamaya yarayan bir Verification IP.",
+      en: 'A Verification IP I wrote in SystemVerilog to validate UART communication.',
     },
     link: 'https://github.com/Aytacus/uart-vip',
   },
@@ -224,8 +224,8 @@ const projects = [
     title: { tr: 'Paralel Bubble Sort', en: 'Parallel Bubble Sort' },
     meta: { tr: 'Jupyter Notebook • Paralel Programlama', en: 'Jupyter Notebook • Parallel Computing' },
     desc: {
-      tr: 'Bubble sort algoritmasının paralelleştirilmiş bir uygulaması, paralelleştirme hızlanmasını göstermek için sıralı sürümle karşılaştırmalı kıyaslamalar içerir.',
-      en: 'A parallelized implementation of the bubble sort algorithm with benchmarks against the sequential version to demonstrate parallelization speed-ups.',
+      tr: "Bubble sort'un paralel bir versiyonu. Sıralı sürümüyle yan yana koyup ne kadar hızlandığına baktığım küçük bir deneme.",
+      en: 'A parallel version of bubble sort, put side by side with the sequential one to see how much faster it actually gets.',
     },
     link: 'https://github.com/Aytacus/Parallel-Bubble-Sort',
   },
@@ -233,8 +233,8 @@ const projects = [
     title: { tr: 'NS-3 & SUMO Simülasyonu', en: 'NS-3 & SUMO Simulation' },
     meta: { tr: 'C++ • Tcl • LoRaWAN Simülasyonu', en: 'C++ • Tcl • LoRaWAN Simulation' },
     desc: {
-      tr: 'VANET uygulamaları için LoRaWAN modeli üzerinden NS-3 ile SUMO trafik simülatörünü entegre eden bir ağ simülasyon projesi.',
-      en: 'A network simulation project integrating NS-3 with the SUMO traffic simulator over a LoRaWAN model for VANET applications.',
+      tr: "NS-3'ü SUMO trafik simülatörüyle LoRaWAN üzerinden birleştirip bir VANET senaryosu kurduğum ağ simülasyonu projesi.",
+      en: 'A network simulation that connects NS-3 to the SUMO traffic simulator over LoRaWAN to set up a VANET scenario.',
     },
     link: 'https://github.com/Aytacus/Ns-3_Sumo_Application',
   },
@@ -249,8 +249,8 @@ const blogs = [
     },
     meta: { tr: 'Medium • 22 Nisan 2026', en: 'Medium • Apr 22, 2026' },
     desc: {
-      tr: 'ONNX neden önemli: Open Neural Network Exchange formatının modelleri framework bağımlılığından nasıl kurtardığına ve platformlar arası dağıtımı nasıl güçlendirdiğine dair derin bir inceleme.',
-      en: 'Why ONNX matters: a deep dive into how the Open Neural Network Exchange format frees models from framework lock-in and powers cross-platform deployment.',
+      tr: "ONNX'in neden bu kadar işe yaradığını ve modelleri PyTorch ya da TensorFlow gibi tek bir framework'e mahkum olmaktan nasıl çıkardığını anlattım.",
+      en: "Why ONNX is so useful, and how it keeps a model from being stuck inside a single framework like PyTorch or TensorFlow.",
     },
     link: {
       tr: 'https://medium.com/@akgunyucel/yapay-zekan%C4%B1n-evrensel-dili-onnx-ile-modelleri-%C3%B6zg%C3%BCrle%C5%9Ftirmek-c7b2299422cd',
@@ -264,8 +264,8 @@ const blogs = [
     },
     meta: { tr: 'Medium • 11 Şubat 2026', en: 'Medium • Feb 11, 2026' },
     desc: {
-      tr: 'Vision-Language Model\'lerin (VLM) keşfi — bilgisayarlı görüyü doğal dil işleme ile birleştirmenin, yapay zekâya fiziksel dünyayı algılama, anlama ve harekete geçme yolunu nasıl kazandırdığı.',
-      en: 'An exploration of Vision-Language Models — how merging computer vision with NLP gives AI a way to perceive, understand and act in the physical world.',
+      tr: "VLM'ler tam olarak nedir, bilgisayarlı görüyle dil modellerini birleştirmek neye yarar ve robotlar bu sayede çevreyi neden gerçekten anlayabilir hale geliyor — onu anlattım.",
+      en: "What VLMs really are, why combining vision with language matters, and how this is what finally lets robots actually understand what they see.",
     },
     link: {
       tr: 'https://medium.com/@akgunyucel/chatgpt-bir-bedene-kavu%C5%9Fursa-vlms-d%C3%BCnyas%C4%B1-a569f77bba72',
@@ -279,8 +279,8 @@ const blogs = [
     },
     meta: { tr: 'Medium • 14 Aralık 2025', en: 'Medium • Dec 14, 2025' },
     desc: {
-      tr: 'Sentetik veri üzerinde eğitilmenin yol açtığı model çöküşü ve yapay zekâ halüsinasyonunun sessiz tehditlerine derinlemesine bir bakış.',
-      en: 'An in-depth look at the silent threats of AI hallucination and model collapse caused by training on synthetic data.',
+      tr: "Modeller sürekli birbirlerinin ürettiği sentetik veriyle beslendiğinde ne oluyor ve halüsinasyon ile model çöküşü neden tamamen farklı problemler — kısa bir yazı.",
+      en: "What happens when models keep being trained on each other's synthetic outputs, and why hallucination and model collapse aren't really the same problem.",
     },
     link: {
       tr: 'https://medium.com/@akgunyucel/model-%C3%A7%C3%B6kmesi-ve-hal%C3%BCsinasyon-yapay-zek%C3%A2n%C4%B1n-sessiz-sonu-ad0b85cca177',
@@ -294,8 +294,8 @@ const blogs = [
     },
     meta: { tr: 'Medium • 10 Aralık 2025', en: 'Medium • Dec 10, 2025' },
     desc: {
-      tr: 'CPU, GPU ve TPU mimarileri arasındaki kritik farkların ve bunların yapay zekâ iş yüklerindeki kullanım senaryolarının kapsamlı bir karşılaştırması.',
-      en: 'A comprehensive breakdown of the critical differences between CPU, GPU, and TPU architectures and their respective use cases in AI workloads.',
+      tr: 'CPU, GPU ve TPU aslında ne yapar ve hangisi nerede işe yarar — derli toplu bir karşılaştırma.',
+      en: 'What CPUs, GPUs and TPUs actually do, and which one is the right tool for which kind of job.',
     },
     link: {
       tr: 'https://medium.com/@akgunyucel/donan%C4%B1m-sava%C5%9Flar%C4%B1-cpu-gpu-ve-tpu-aras%C4%B1ndaki-kritik-farklar-f70cd6001246',
@@ -309,8 +309,8 @@ const blogs = [
     },
     meta: { tr: 'Medium • 11 Kasım 2025', en: 'Medium • Nov 11, 2025' },
     desc: {
-      tr: 'Yapay zekâ modellerinin eğitiminde kullanılan iki popüler bulut platformunun karşılaştırması: GPU erişimi, kalıcılık, veri seti akışı ve geliştirici deneyimi.',
-      en: 'Comparing two popular cloud platforms used for training AI models — GPU availability, persistence, dataset workflow and developer experience.',
+      tr: "Model eğitimi açısından Kaggle ile Google Colab'i yan yana koyduğum bir yazı: GPU, veri seti akışı, kullanım rahatlığı.",
+      en: 'Kaggle vs Google Colab for training models — GPU access, dataset flow and how comfortable each one feels in practice.',
     },
     link: 'https://medium.com/@akgunyucel/kaggle-vs-google-colab-yapay-zeka-e%C4%9Fitimi-13b73d843526',
     onlyLang: 'tr',
@@ -322,8 +322,8 @@ const blogs = [
     },
     meta: { tr: 'Medium • 10 Kasım 2025', en: 'Medium • Nov 10, 2025' },
     desc: {
-      tr: 'Bir Büyük Dil Modelini ne zaman fine-tune etmeli, ne zaman Retrieval-Augmented Generation kullanmalı — ödünleşimlerin pratik bir karşılaştırması.',
-      en: 'When to fine-tune a Large Language Model and when to lean on Retrieval-Augmented Generation — a practical comparison of trade-offs.',
+      tr: "Ne zaman bir LLM'i fine-tune etmek mantıklı, ne zaman RAG yetiyor — meseleyi pratik tarafından ele aldım.",
+      en: "When fine-tuning an LLM is the right move and when RAG is enough — looked at from a practical angle.",
     },
     link: 'https://medium.com/@akgunyucel/fine-tuning-llm-vs-rag-91d3ed99204b',
     onlyLang: 'tr',
@@ -335,8 +335,8 @@ const blogs = [
     },
     meta: { tr: 'Acrome • 9 Nisan 2025', en: 'Acrome • Apr 9, 2025' },
     desc: {
-      tr: 'SMD mobil robotlarını Groq Cloud ve ultra düşük gecikmeli LLM çıkarımı ile kontrol etmeye dair detaylı bir inceleme.',
-      en: 'A detailed review on controlling SMD mobile robots with Groq Cloud and ultra-low-latency LLM inference.',
+      tr: 'SMD mobil robotlarını Groq Cloud üzerinden gelen LLM cevaplarıyla nasıl kontrol ettiğimizi anlatan bir yazı.',
+      en: 'A walkthrough of how we controlled SMD mobile robots using LLM responses served over Groq Cloud.',
     },
     link: 'https://acrome.net/post/controlling-smd-mobile-robots-with-groq',
     onlyLang: 'en',
@@ -348,8 +348,8 @@ const blogs = [
     },
     meta: { tr: 'Acrome • 15 Kasım 2024', en: 'Acrome • Nov 15, 2024' },
     desc: {
-      tr: 'Delta robotları konveyörlerle eşleştiren bir otomasyon örneği — endüstriyel otomasyonun yapı taşlarına kısa bir bakış.',
-      en: 'An automation example pairing delta robots with conveyors — a glimpse into the building blocks of industrial automation.',
+      tr: 'Delta robotu ve konveyörle küçük bir otomasyon örneği. Endüstriyel otomasyonun temel yapı taşlarına giriş niteliğinde bir yazı.',
+      en: "A small automation example pairing a delta robot with a conveyor — basically an intro to how industrial automation is wired up.",
     },
     link: 'https://acrome.net/post/delta-robot-and-conveyor-example-a-glimpse-into-industrial-automation',
     onlyLang: 'en',
@@ -364,8 +364,8 @@ const achievements = [
     role: { tr: 'Finalist Takım Üyesi', en: 'Finalist Team Member' },
     meta: { tr: 'Aralık 2024 • 225 takım arasından ilk 14', en: 'December 2024 • Top 14 of 225 teams' },
     desc: {
-      tr: "VakıfBank'ın yıllık ulusal hackathonunun finallerine kalan takımın bir üyesiydim. Yarışma; dijital bankacılık deneyimi, yenilikçi ürün ve hizmetler, sosyal sorumluluk ve yeni nesil müşteri iletişimi temalarında uçtan uca çözümler tasarlamamızı gerektirdi.",
-      en: "I was a member of a finalist team at VakıfBank's annual national hackathon. The competition required end-to-end solutions across digital banking UX, innovative products & services, social responsibility and next-generation customer communication.",
+      tr: "VakıfBank'ın ulusal hackathonunda finale kalan takımlardan birindeydim. Yarışmada dijital bankacılık deneyimi, yenilikçi ürün ve servisler, sosyal sorumluluk ve yeni nesil müşteri iletişimi temaları üzerine bir çözüm geliştirdik.",
+      en: "Our team made it into the finals at VakıfBank's national hackathon. We built a solution around digital banking experience, innovative products & services, social responsibility and next-generation customer communication.",
     },
   },
 ];
