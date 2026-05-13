@@ -26,7 +26,7 @@ export const translations = {
       eyebrow: 'Yeni fırsatlara açığım',
       greeting: 'Merhaba, ben',
       subtitle:
-        "Bilgisayar Mühendisiyim. Yapay zekâ, robotik ve bilgisayarlı görü tarafında çalışıyor, öğrendiklerimi de zaman zaman Medium'da yazıya döküyorum.",
+        "Yapay zekâ, robotik ve bilgisayarlı görü tarafında çalışıyor, öğrendiklerimi Medium'da paylaşıyorum.",
       exploreProjects: 'Projeleri Keşfet',
       readOnMedium: "Medium'da Oku",
     },
@@ -38,7 +38,7 @@ export const translations = {
       contact: 'İletişim',
     },
     about: {
-      bio: "Bilgisayar Mühendisiyim. Vaktimin büyük çoğunluğu yapay zekâ, robotik, görüntü işleme ve bilgisayarlı görü tarafında geçiyor. Bir fikrin defterden çıkıp gerçekten çalışan bir şeye dönüştüğü kısım benim için en zevkli yer — sonrasında da öğrendiklerimi Medium'da yazıya döküyorum.",
+      bio: "Vaktimin büyük çoğunluğu yapay zekâ, robotik, görüntü işleme ve bilgisayarlı görü tarafında geçiyor. Bir fikrin defterden çıkıp gerçekten çalışan bir şeye dönüştüğü o an benim için en zevkli kısım — bir şeyler öğrendiğimde de genellikle onu Medium'da yazıya dökmeyi seviyorum.",
     },
     badges: {
       onlyTR: 'Yazı yalnızca Türkçe',
@@ -77,7 +77,7 @@ export const translations = {
       eyebrow: 'Available for new opportunities',
       greeting: "Hi, I'm",
       subtitle:
-        "Computer Engineer. I work on AI, robotics and computer vision, and I write about what I'm learning along the way on Medium.",
+        "I work on AI, robotics and computer vision, and share what I learn along the way on Medium.",
       exploreProjects: 'Explore Projects',
       readOnMedium: 'Read on Medium',
     },
@@ -89,7 +89,7 @@ export const translations = {
       contact: 'Contact',
     },
     about: {
-      bio: "I'm a Computer Engineer. Most of my time goes into AI, robotics, image processing and computer vision. My favorite part is the moment an idea moves out of a notebook and turns into something that actually works — and I usually end up writing about what I learned on Medium afterwards.",
+      bio: "Most of my time goes into AI, robotics, image processing and computer vision. My favorite part is the moment an idea moves out of a notebook and turns into something that actually works — and whenever I learn something along the way I usually end up writing about it on Medium.",
     },
     badges: {
       onlyTR: 'Post available in Turkish only',
