@@ -1,0 +1,37 @@
+﻿1cd3a54  (origin/gh-pages) Y├╝cel Aytac Akg├╝n | Updates
+94b92b4  (HEAD -> main, origin/main, origin/HEAD) Y├╝cel Aytac Akg├╝n | content: drop the repeated 'Computer Engineer' line from hero, about and meta
+e696e12  (tag: backup-before-rewrite-coauthor) Y├╝cel Aytac Akg├╝n | content: drop the repeated 'Computer Engineer' line from hero, about and meta
+3463491  Y├╝cel Aytac Akg├╝n | Updates
+dc658c0  Y├╝cel Aytac Akg├╝n | Merge branch 'main' of https://github.com/Aytacus/Aytacus.github.io
+d07fc34  Y├╝cel Aytac Akg├╝n | Merge branch 'main' of https://github.com/Aytacus/Aytacus.github.io
+ca594ba  Y├╝cel Aytac Akg├╝n | content: rewrite copy in a more natural, personal voice
+9148115  Y├╝cel Aytac Akg├╝n | content: rewrite copy in a more natural, personal voice
+2f7bce1  Aytacus | Update package.json
+5a6a224  Aytacus | Update package.json
+2b17073  Aytacus | Update package.json
+e09d0bd  Y├╝cel Aytac Akg├╝n | Updates
+72da67a  Y├╝cel Aytac Akg├╝n | Rename section title to Contact/Iletisim and switch to user-page homepage
+069c77d  Y├╝cel Aytac Akg├╝n | Updates
+a32767d  Y├╝cel Aytac Akg├╝n | Studio Ghibli themed portfolio with bilingual TR/EN support, achievements section, and anime avatar
+d0705bd  Y├╝cel Aytac Akg├╝n | Update Home.js
+960a77f  Y├╝cel Aytac Akg├╝n | S
+61e3a69  Y├╝cel Aytac Akg├╝n | S
+886a90b  Y├╝cel Aytac Akg├╝n | S
+e79485a  Y├╝cel Aytac Akg├╝n | Update
+2034204  Y├╝cel Aytac Akg├╝n | Update
+f9737da  Y├╝cel Aytac Akg├╝n | Update
+558f966  Y├╝cel Aytac Akg├╝n | Update yucel-aytac-akgun-cv.pdf
+6a0e80f  Y├╝cel Aytac Akg├╝n | Update Home.js
+d5049a9  Y├╝cel Aytac Akg├╝n | Update App.css
+7ee7709  Y├╝cel Aytac Akg├╝n | Update App.css
+b4e7e2a  Y├╝cel Aytac Akg├╝n | Update App.css
+dad277f  Y├╝cel Aytac Akg├╝n | Update App.css
+62fed30  Y├╝cel Aytac Akg├╝n | Update App.css
+f97bc8d  Y├╝cel Aytac Akg├╝n | Update App.css
+e2cceb6  Y├╝cel Aytac Akg├╝n | Update App.css
+05ac222  Y├╝cel Aytac Akg├╝n | Update
+1c8c4c6  Y├╝cel Aytac Akg├╝n | Update
+9558940  Y├╝cel Aytac Akg├╝n | Update
+69a2a38  Y├╝cel Aytac Akg├╝n | Update
+246d909  Y├╝cel Aytac Akg├╝n | My personal website
+4236533  Y├╝cel Aytac Akg├╝n | Initial commit

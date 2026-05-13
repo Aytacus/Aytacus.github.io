@@ -1,6 +1,8 @@
 {
-  "short_name": "YucelAytacPW",
-  "name": "Yucel Aytac Personal Website",
+  "short_name": "Yücel Aytaç",
+  "name": "Yücel Aytaç Akgün — Personal Website",
+  "theme_color": "#5ba9d4",
+  "background_color": "#fef8f0",
   "icons": [
     {
       "src": "favicon.ico",
@@ -19,7 +21,5 @@
     }
   ],
   "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "display": "standalone"
 }
